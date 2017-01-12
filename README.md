@@ -1,6 +1,7 @@
 # tiactl
 TIA Controller - Proof of concept for now.. HOBBY PROJECT!! Be warned!
 # Project Purpose - to make the installs of TIA ALOT simpler
+The tool will be developed for internal purposes first, do dont expect it to work unless you have access to TIA internal networks. 
 
 
 
